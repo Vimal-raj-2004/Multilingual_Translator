@@ -23,7 +23,7 @@ A **desktop application** that combines **multilingual translation**, **voice as
 
 ## Screenshots
 
-*![Translator Screenshot](Output.png)*
+*![Translator Screenshot](output.png)*
 
 ---
 
