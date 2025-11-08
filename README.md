@@ -31,7 +31,7 @@ A **desktop application** that combines **multilingual translation**, **voice as
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Multilingual-Translator-NLP-ImageAssistant.git
+git clone https://github.com/Vimal-raj-2004/Multilingual_Translator.git
 cd Multilingual-Translator-NLP-ImageAssistant
 
 # Create a virtual environment
