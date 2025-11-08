@@ -41,6 +41,8 @@ python -m venv .venv
 
 # Install dependencies
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+This will ensure your multilingual translator project runs without package errors.
 
 # Run the application
 python multilingual_translator.py
